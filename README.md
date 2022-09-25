@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shashank Singh</h1>
-<h3 align="center">A Machine Learning from India</h3>
+<h3 align="center">A Machine Learning Enthusiast from India</h3>
+<img align="right" alt="Coding" width="400" src="https://assets7.lottiefiles.com/packages/lf20_iorpbol0.json">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashank306&label=Profile%20views&color=0e75b6&style=flat" alt="shashank306" /> </p>
 
