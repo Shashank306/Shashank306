@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashank306" alt="shashank306" /></a> </p>
 
-- 🔭 I’m currently working on **Self Balancing Two Wheeled Robot**
-
 - 🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me **shashankthakur306@gmail.com**
